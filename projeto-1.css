@@ -1,0 +1,48 @@
+body {
+
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+
+}
+
+.topo {
+    background-image: url(bg-3.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 670px;
+    margin-top: -16px;
+}
+
+.navbar {
+    background-color: aqua;
+    margin-left: 80%;
+    margin-right: 10%;
+}
+
+#TITULO-1 {
+    text-align: center;
+    padding-top: 14%;
+
+}
+
+.TITULO-1 {
+    color: aliceblue;
+    font-size: 40px;
+}
+
+.paragrafo-1 {
+    color: aliceblue;
+    background-color: rgba(0, 0, 0, 0.61);
+    height: 40px;
+    text-align: center;
+    padding-top: 20px;
+    width: 40%;
+    margin-left: 30%;
+    border-bottom: 2px solid;
+}
+
+.corpo {
+    background-color: rgb(185, 214, 214);
+    padding-top: 30px;
+}
